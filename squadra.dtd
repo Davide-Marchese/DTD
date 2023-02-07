@@ -1,0 +1,5 @@
+<!ELEMENT squadra (nome,serie,presidente,allenatore,giocatori)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT serie (A | B | C | D)>
+<!ELEMENT presidente (#PCDATA)>
+<!ELEMENT allenatore (#PCDATA)>

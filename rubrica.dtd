@@ -1,0 +1,11 @@
+<!ELEMENT rubrica (contatto*)>
+<!ELEMENT contatto (nome,cognome,cellulare,telefono)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT cognome (#PCDATA)>
+<!ELEMENT cellulare (#PCDATA)>
+<!ELEMENT telefono (casa,ufficio)>
+<!ELEMENT casa (#PCDATA)>
+<!ELEMENT ufficio (#PCDATA)>
+<!ATTLIST cellulare predefinito CDATA "0">
+<!ATTLIST ufficio predefinito CDATA "0">
+<!ATTLIST casa predefinito CDATA "0">

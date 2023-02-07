@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rubrica SYSTEM "rubrica.dtd">
+<rubrica>
+    <contatto>
+        <nome>Davide</nome>
+        <cognome>Marchese</cognome>
+        <cellulare predefinito="0">3326759678</cellulare>
+        <telefono>
+            <casa predefinito="0">0444434021523</casa>
+            <ufficio predefinito="1">044454987284</ufficio>
+        </telefono>
+    </contatto>
+    <contatto>
+        <nome>Alessandro</nome>
+        <cognome>Dandea</cognome>
+        <cellulare predefinito="1">3496507143</cellulare>
+        <telefono>
+            <casa predefinito="0">044459068730</casa>
+            <ufficio predefinito="0">0444485790278</ufficio>
+        </telefono>
+    </contatto>
+    <contatto>
+        <nome>Devmin</nome>
+        <cognome>Heenatigala</cognome>
+        <cellulare predefinito="0">3326952390</cellulare>
+        <telefono>
+            <casa predefinito="1">0444484278231</casa>
+            <ufficio predefinito="0">0444839210456</ufficio>
+        </telefono>
+    </contatto>
+</rubrica>
