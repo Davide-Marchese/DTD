@@ -1,5 +1,10 @@
-<!ELEMENT squadra (nome,serie,presidente,allenatore,giocatori)>
+<!ELEMENT squadra (nome,presidente,allenatore,giocatori)>
 <!ELEMENT nome (#PCDATA)>
-<!ELEMENT serie (A | B | C | D)>
+<!ATTLIST squadra serie (A|B|C1) "A">
 <!ELEMENT presidente (#PCDATA)>
 <!ELEMENT allenatore (#PCDATA)>
+<!ELEMENT giocatore (#PCDATA)>
+<!ELEMENT giocatori (giocatore+)>
+<!ATTLIST giocatore titolare (y|n) "n">
+<!ATTLIST giocatore ruolo (portiere|difensore|centrocampista|attaccante) "">
+<!ATTLIST giocatore capitano ID #IMPLIED>

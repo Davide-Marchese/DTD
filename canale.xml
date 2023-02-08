@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PROGRAMMAZIONE SYSTEM "canale.dtd">
+<PROGRAMMAZIONE NOME="domani">
+    <CANALE NUMERO="1">
+        <NOME>RAI 1</NOME>
+        <GIORNO></GIORNO>
+    </CANALE>
+</PROGRAMMAZIONE>

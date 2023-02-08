@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE squadra SYSTEM "squadra.dtd">
-<squadra>
-<serie>A</serie>
+<squadra serie="A">
+    <nome></nome>
+    <presidente>Andrea Agnelli</presidente>
+    <allenatore>Massimiliano Allegri</allenatore>
+    <giocatori>
+        <giocatore titolare="y" ruolo="portiere">SZCZESNY</giocatore>
+        <giocatore titolare="y" ruolo="difensore">GATTI</giocatore>
+        <giocatore titolare="y" ruolo="difensore" capitano="y">BONUCCI</giocatore>
+        <giocatore titolare="y" ruolo="difensore">DANILO</giocatore>
+        <giocatore titolare="y" ruolo="centrocampista">LOCATELLI</giocatore>
+        <giocatore titolare="y" ruolo="centrocampista">FAGIOLI</giocatore>
+        <giocatore titolare="y" ruolo="centrocampista">RABIOT</giocatore>
+        <giocatore titolare="y" ruolo="centrocampista">CUADRADO</giocatore>
+        <giocatore titolare="y" ruolo="centrocampista">KOSTIC</giocatore>
+        <giocatore titolare="y" ruolo="attaccante">DI MARÍA</giocatore>
+        <giocatore titolare="y" ruolo="attaccante">VLAHOVIC</giocatore>
+        <giocatore titolare="n" ruolo="portiere">PERIN</giocatore>
+        <giocatore titolare="n" ruolo="portiere">PINSOGLIO</giocatore>
+        <giocatore titolare="n" ruolo="difensore">ALEX SANDRO</giocatore>
+        <giocatore titolare="n" ruolo="difensore">RUGANI</giocatore>
+        <giocatore titolare="n" ruolo="attaccante">SOULÉ</giocatore>
+        <giocatore titolare="n" ruolo="difensore">DE SCIGLIO</giocatore>
+        <giocatore titolare="n" ruolo="centrocampista">MIRETTI</giocatore>
+        <giocatore titolare="n" ruolo="attaccante">CHIESA</giocatore>
+        <giocatore titolare="n" ruolo="attaccante">ILING-JUNIOR</giocatore>
+        <giocatore titolare="n" ruolo="attaccante">KEAN</giocatore>
+        <giocatore titolare="n" ruolo="centrocampista">AKÉ</giocatore>
+        <giocatore titolare="n" ruolo="centrocampista">POGBA</giocatore>
+        <giocatore titolare="n" ruolo="difensore">BREMER</giocatore>
+        <giocatore titolare="n" ruolo="attaccante">MILIK</giocatore>
+        <giocatore titolare="n" ruolo="centrocampista">PAREDES</giocatore>
+    </giocatori>
 </squadra>
